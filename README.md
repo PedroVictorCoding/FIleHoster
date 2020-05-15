@@ -1,4 +1,7 @@
 # FileHoster
 Host files for your projects
 
-This is an update
+Features:
+- [ ] Accounts;
+- [ ] Upload and Host of Files;
+- [ ] Paste editor;
