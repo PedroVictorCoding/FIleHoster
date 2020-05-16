@@ -1,0 +1,22 @@
+body {
+    background-color: #14213D;
+}
+.main-color {
+    background-color: #FCA311;
+}
+.main-color:hover {
+    background-color: #FDB92A;
+}
+
+.main-outline-color{
+    color: #FCA311;
+    border-color: #FCA311;
+}
+.main-outline-color:hover{
+    background-color: #FDB92A;
+    color: #000;
+}
+
+.dark-color {
+    background-color: #14213D;
+}
